@@ -2,7 +2,7 @@
 
 팡팡 악몽 퇴치 게임
 
-![Nightmare](./resources/PangPang/Nightmare.png)
+![Nightmare](./resources/Nightmare.png)
 
 ## Download
 
@@ -22,7 +22,7 @@
 - 할당된 시간 안에 악몽을 클릭하면 점수를 획득합니다.
 - 체력이 0이 되거나 목숨이 0개가 되면 게임을 종료하게 됩니다.
     
-    ![LIFE](./resources/PangPang/life.png)
+    ![LIFE](./resources/life.png)
 
 ## Role
 
