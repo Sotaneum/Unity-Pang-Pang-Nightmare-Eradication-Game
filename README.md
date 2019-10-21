@@ -22,8 +22,8 @@
   - 사방으로 흩어진 <img src="./resources/Nightmare.png" width="48">이 여러분의 친구들이 괴롭지 않도록 빠르게 선택해서 퇴치해 주세요. 
   - 제한된 시간 내에 최대한 많은 <img src="./resources/Nightmare.png" width="48">을 퇴치해서 친구와 경쟁하세요.
   - 각 <img src="./resources/Nightmare.png" width="48">은 일정한 시간이 지나면 친구들 곁으로 다가와 빙글빙글 돌아가는 <img src="./resources/life.png" width="48"> 을 하나씩 뺏어 갑니다.
-  - 목숨을 잃지 않고 계속 해 나간다면 누구보다도 더 많은 <img src="./resources/Nightmare.png" width="48">을 퇴치 할 수 있습니다.
-  - 목숨이 0이 되거나 제한된 시간이 0이 되면 게임이 종료됩니다.
+  - <img src="./resources/life.png" width="48">을 잃지 않고 계속 한다면 누구보다도 더 많은 <img src="./resources/Nightmare.png" width="48">을 퇴치 할 수 있습니다.
+  - <img src="./resources/life.png" width="48">이 0이 되거나 제한된 시간이 0이 되면 게임이 종료됩니다.
 - 게임 특징
   - 화려한 임펙트와 아기자기한 배경, 귀여운 캐릭터가 만난 남녀노소 누구나 즐길 수 있는 `킬링타임용 게임`입니다.
   - 중간에 `언제든지 게임을 일시정지` 할 수 있습니다.
