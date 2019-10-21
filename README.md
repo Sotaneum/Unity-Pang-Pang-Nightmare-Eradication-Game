@@ -26,14 +26,21 @@
   - 목숨이 0이 되거나 제한된 시간이 0이 되면 게임이 종료됩니다.
 - 게임 특징
   - 화려한 임펙트와 아기자기한 배경, 귀여운 캐릭터가 만난 남녀노소 누구나 즐길 수 있는 `킬링타임용 게임`입니다.
-  - 중간에 언제든지 게임을 일시정지 할 수 있습니다.
-    <img src="./resources/img_stop.png" width="400">
-  - 일시정지한 게임은 다시 불러올 수 있습니다.
-    <img src="./resources/img_continue.png" width="400">
-  - 게임이 종료되면 아래와 같이 표시 됩니다.
-    <img src="./resources/img_result.png" width="400">
-  - 플레이를 잘하면 잘 할 수록 더 많은 악몽을 만들어내고 더 높은 점수를 얻을 수 있습니다.
-    <img src="./resources/img_level4.png" width="400">
+  - 중간에 `언제든지 게임을 일시정지` 할 수 있습니다.
+
+    ![cover](./resources/img_stop.png)
+
+  - 일시정지한 게임은 `다시 불러올 수` 있습니다.
+
+    ![cover](./resources/img_continue.png)
+
+  - `게임이 종료`되면 아래와 같이 표시 됩니다.
+  
+    ![cover](./resources/img_result.png)
+
+  - 플레이를 잘하면 잘 할 수록 더 많은 악몽을 만들어내고 `더 높은 점수`를 얻을 수 있습니다.
+
+    ![cover](./resources/img_level4.png)
 
 ## Role
 
@@ -49,7 +56,7 @@
 - Unity 5 Personal Edition
 - Windows 7 x64 (Desktop)
 
-## What did you learn?
+## What did you learn
 
 - 게임의 상태를 저장하는 기능에 대해 배웠습니다.
 - 모바일에서의 터치(클릭) 이벤트에 대해 배웠습니다.
