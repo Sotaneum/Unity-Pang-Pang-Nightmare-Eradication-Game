@@ -16,25 +16,24 @@
 
 ## Info
 
-- 화려한 임펙트와 아기자기한 배경, 귀여운 캐릭터가 만난 남녀노소 누구나 즐길 수 있는 `킬링타임용 게임`입니다.
+![cover](./resources/img_start.png)
 
-    <img src="./resources/Nightmare.png" width="48"> <-- 이 친구
-
-- 사방으로 랜덤하게 악몽이 뿌려지게 되며 악몽을 클릭하여 `시간 내에 악몽들을 퇴치 하는 게임`입니다.
-  
-    ![start](./resources/img_start.png)
-
-- 한 개의 악몽에 할당된 시간 안에 악몽을 클릭하지 못하면 일정 체력이 감소하거나 가지고 있는 목숨 중 한 개가 감소하게 됩니다.
-- 할당된 시간 안에 악몽을 클릭하면 점수를 획득합니다.
-    ![level4](./resources/img_level4.png)
-- 체력이 0이 되거나 목숨이 0개가 되면 게임을 종료하게 됩니다.
-
-    <img src="./resources/life.png" width="48"> <-- 생명 (게임에서 빙글빙글 돌아가요)
-
-- 중간에 언제든지 게임을 일시정지 할 수 있으며 다시 불러올 수 있습니다.
-  
-    ![stop](./resources/img_stop.png)
-    ![continue](./resources/img_continue.png)
+- 게임 스토리
+  - 사방으로 흩어진 <img src="./resources/Nightmare.png" width="48">이 여러분의 친구들이 괴롭지 않도록 빠르게 선택해서 퇴치해 주세요. 
+  - 제한된 시간 내에 최대한 많은 <img src="./resources/Nightmare.png" width="48">을 퇴치해서 친구와 경쟁하세요.
+  - 각 <img src="./resources/Nightmare.png" width="48">은 일정한 시간이 지나면 친구들 곁으로 다가와 빙글빙글 돌아가는 <img src="./resources/life.png" width="48"> 을 하나씩 뺏어 갑니다.
+  - 목숨을 잃지 않고 계속 해 나간다면 누구보다도 더 많은 <img src="./resources/Nightmare.png" width="48">을 퇴치 할 수 있습니다.
+  - 목숨이 0이 되거나 제한된 시간이 0이 되면 게임이 종료됩니다.
+- 게임 특징
+  - 화려한 임펙트와 아기자기한 배경, 귀여운 캐릭터가 만난 남녀노소 누구나 즐길 수 있는 `킬링타임용 게임`입니다.
+  - 중간에 언제든지 게임을 일시정지 할 수 있습니다.
+    <img src="./resources/img_stop.png" width="400">
+  - 일시정지한 게임은 다시 불러올 수 있습니다.
+    <img src="./resources/img_continue.png" width="400">
+  - 게임이 종료되면 아래와 같이 표시 됩니다.
+    <img src="./resources/img_result.png" width="400">
+  - 플레이를 잘하면 잘 할 수록 더 많은 악몽을 만들어내고 더 높은 점수를 얻을 수 있습니다.
+    <img src="./resources/img_level4.png" width="400">
 
 ## Role
 
